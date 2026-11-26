@@ -1,1 +1,3 @@
 Mi primera prueba con Git
+Prueba desde mi PC nuevo.
+GitHub + SSH funcionando.
